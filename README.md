@@ -3,157 +3,156 @@
 
 2. Values
 
-Variables
+3. Variables
 
-Constants
+4. Constants
 
-For
+5. For
 
-If/Else
+6. If/Else
 
-Switch
+7. Switch
 
-Arrays
+8. Arrays
 
-Slices
+9. Slices
 
-Maps
+10. Maps
 
-Range
+11. Range
 
-Functions
+12. Functions
 
-Multiple Return Values
+13. Multiple Return Values
 
-Variadic Functions
+14. Variadic Functions
 
-Closures
+15. Closures
 
-Recursion
+16. Recursion
 
-Pointers
+17. Pointers
 
-Strings and Runes
+18. Strings and Runes
 
-Structs
+19. Structs
 
-Methods
+20. Methods
 
-Interfaces
+21. Interfaces
 
-Embedding
+22. Embedding
 
-Errors
+23. Errors
 
-Goroutines
+24. Goroutines
 
-Channels
+25. Channels
 
-Channel Buffering
+26. Channel Buffering
 
-Channel Synchronization
+27. Channel Synchronization
 
-Channel Directions
+28. Channel Directions
 
-Select
+29. Select
 
-Timeouts
+30. Timeouts
 
-Non-Blocking Channel Operations
+31. Non-Blocking Channel Operations
 
-Closing Channels
+32. Closing Channels
 
-Range over Channels
+33. Range over Channels
 
-Timers
+34. Timers
 
-Tickers
+35. Tickers
 
-Worker Pools
+36. Worker Pools
 
-WaitGroups
+37. WaitGroups
 
-Rate Limiting
+38. Rate Limiting
 
-Atomic Counters
+39. Atomic Counters
 
-Mutexes
+40. Mutexes
 
-Stateful Goroutines
+41. Stateful Goroutines
 
-Sorting
+42. Sorting
 
-Sorting by Functions
+43. Sorting by Functions
 
-Panic
+44. Panic
 
-Defer
+45. Defer
 
-Recover
+46. Recover
 
-Collection Functions
+47. Collection Functions
 
-String Functions
+48. String Functions
 
-String Formatting
+49. String Formatting
 
-Text Templates
+50. Text Templates
 
-Regular Expressions
+51. Regular Expressions
 
-JSON
+52. JSON
 
-XML
+53. XML
 
-Time
+54. Time
 
-Epoch
+55. Epoch
 
-Time Formatting / Parsing
+56. Time Formatting / Parsing
 
-Random Numbers
+57. Random Numbers
 
-Number Parsing
+58. Number Parsing
 
-URL Parsing
+59. URL Parsing
 
-SHA1 Hashes
+60. SHA1 Hashes
 
-Base64 Encoding
+61. Base64 Encoding
 
-Reading Files
+62. Reading Files
 
-Writing Files
+63. Writing Files
 
-Line Filters
+64. Line Filters
 
-File Paths
+65. File Paths
 
-Directories
+66. Directories
 
-Temporary Files and Directories
+67. Temporary Files and Directories
 
-Testing and Benchmarking
+68. Testing and Benchmarking
 
-Command-Line Arguments
+69. Command-Line Arguments
 
-Command-Line Flags
+70. Command-Line Flags
 
-Command-Line Subcommands
+71. Command-Line Subcommands
 
-Environment Variables
+72. Environment Variables
 
-HTTP Clients
+73. HTTP Clients
 
-HTTP Servers
+74. HTTP Servers
 
-Context
+75. Context
 
-Spawning Processes
+76. Spawning Processes
 
-Exec'ing Processes
+77. Exec'ing Processes
 
-Signals
+78. Signals
 
-Exit
 
