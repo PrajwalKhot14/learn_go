@@ -1,31 +1,31 @@
 # learn_go
 1. Hello World [x]
 
-2. Values
+2. Values [x]
 
-3. Variables
+3. Variables [x]
 
-4. Constants
+4. Constants [x]
 
-5. For
+5. For [x]
 
-6. If/Else
+6. If/Else [x]
 
-7. Switch
+7. Switch [x]
 
-8. Arrays
+8. Arrays [x]
 
-9. Slices
+9. Slices [x]
 
-10. Maps
+10. Maps [x]
 
-11. Range
+11. Range [x]
 
-12. Functions
+12. Functions [x]
 
-13. Multiple Return Values
+13. Multiple Return Values [x]
 
-14. Variadic Functions
+14. Variadic Functions [x]
 
 15. Closures
 
