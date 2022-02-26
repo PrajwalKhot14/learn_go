@@ -1,5 +1,5 @@
 # learn_go
-1. Hello World
+1. Hello World [x]
 
 2. Values
 
